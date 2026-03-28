@@ -11,16 +11,16 @@ void main(List<String> args) {
 
   print("Dart Dili'ni öğreniyorum.");
   
-    /*
-    -----------------------------------------------------------------------------------------
-    ÖNEMLİ NOT:
-    -----------------------------------------------------------------------------------------
-    print işlemi yaparken tek tırnak ve çift tırnak arasında fark yoktur.
-    İkisi de kullanılabilir. Ancak tek tırnak kullanırken içinde tek tırnak varsa hata verir.
-    Aynı şekilde, çift tırnak kullanırken içinde çift tırnak varsa hata verir.
-    Bu nedenle bazı teknik hatalar oluşur. Bu hataları önlemek için "\" karakteri kullanılır.
-    -----------------------------------------------------------------------------------------
-    */
+  /*
+  -----------------------------------------------------------------------------------------
+  ÖNEMLİ NOT:
+  -----------------------------------------------------------------------------------------
+  print işlemi yaparken tek tırnak ve çift tırnak arasında fark yoktur.
+  İkisi de kullanılabilir. Ancak tek tırnak kullanırken içinde tek tırnak varsa hata verir.
+  Aynı şekilde, çift tırnak kullanırken içinde çift tırnak varsa hata verir.
+  Bu nedenle bazı teknik hatalar oluşur. Bu hataları önlemek için "\" karakteri kullanılır.
+  -----------------------------------------------------------------------------------------
+  */
 
   print("Dart Dili\'ni öğreniyorum.");
 
